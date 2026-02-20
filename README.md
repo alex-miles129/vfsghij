@@ -2,7 +2,7 @@
 ### *Enterprise-Grade Multi-Agent AI for Deepfake Detection & Media Authenticity Verification*
 
 <p align="center">
-  <img src="docs/prototype.png" alt="VERIFAI Dashboard" width="90%">
+  <img src="prototype.png" alt="VERIFAI Dashboard" width="90%">
 </p>
 
 <p align="center">
